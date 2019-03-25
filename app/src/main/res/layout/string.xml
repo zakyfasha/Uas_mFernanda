@@ -1,0 +1,13 @@
+<resources>
+    <string-array name="pilihevent">
+        <item >Basic Oracle</item>
+        <item >SQL Express</item>
+        <item >Couch DB</item>
+        <item >Cuberneles</item>
+        <item >kafka</item>
+        <item >Microsoft Office</item>
+
+    </string-array>
+
+
+</resources>
